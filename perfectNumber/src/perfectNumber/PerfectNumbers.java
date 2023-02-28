@@ -1,5 +1,7 @@
 package perfectNumber;
+
 import java.util.*;
+
 public class PerfectNumbers {
 
 	public static void main(String[] args) {
@@ -9,24 +11,19 @@ public class PerfectNumbers {
 		int number = input.nextInt();
 		int total = 0;
 		for (int i = 1; i < number; i++) {
-			if (number%i==0) {
-				total=total+i;
-				
-				
-			} 
-				
+			if (number % i == 0) {
+				total = total + i;
+
 			}
-		if (total!=number) {
+
+		}
+		if (total != number) {
 			System.out.println("Your number is not a Perfect Number");
-			
+
 		} else {
 			System.out.println("Your number is a Perfect Number!!");
 		}
-		
-		
-		}
-	
 
 	}
 
-
+}
