@@ -7,4 +7,6 @@
     <fullyQualifiedTypeName name="oop1.CooparateCustomer"/>
     <fullyQualifiedTypeName name="methods.Main"/>
     <fullyQualifiedTypeName name="FourTransactions"/>
+    <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
+    <fullyQualifiedTypeName name="methodOverloading.FourTransaction"/>
 </qualifiedTypeNameHistroy>
