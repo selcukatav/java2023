@@ -9,4 +9,12 @@
     <fullyQualifiedTypeName name="FourTransactions"/>
     <fullyQualifiedTypeName name="classesWithAttributes.ProductManager"/>
     <fullyQualifiedTypeName name="methodOverloading.FourTransaction"/>
+    <fullyQualifiedTypeName name="inheritance.Employee"/>
+    <fullyQualifiedTypeName name="inheritance.Person"/>
+    <fullyQualifiedTypeName name="inheritance.PersonManager"/>
+    <fullyQualifiedTypeName name="inheritance.CustomerManager"/>
+    <fullyQualifiedTypeName name="inheritance.EmployeeManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.TeacherLoanManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.BaseLoanManager"/>
+    <fullyQualifiedTypeName name="inheritanceDemo.SoldierLoanManager"/>
 </qualifiedTypeNameHistroy>

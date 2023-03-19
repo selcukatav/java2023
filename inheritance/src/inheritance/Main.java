@@ -7,7 +7,11 @@ public class Main {
 		Customer customer = new Customer();
 		Employee employee= new Employee();
 		
-		// TODO Auto-generated method stub
+		CustomerManager customerManager=new CustomerManager();
+		EmployeeManager employeeManager=new EmployeeManager();
+		customerManager.Add();		
+		employeeManager.List();
+		
 
 	}
 
